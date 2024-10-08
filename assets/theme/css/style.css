@@ -2,6 +2,16 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
+
+.tmr-header-logo {
+  padding-bottom: 3rem !important;
+}
+
+/**
+ Custom CSS End
+ */
+
+
 section {
   background-color: #eeeeee; }
 
