@@ -449,7 +449,7 @@ nav .mbr-section-btn {
 #min-card-box-middle{
   min-height: 300px;
   background-color: lightgreen;
-  background: linear-gradient(rgb(144, 238, 144, .5), transparent);
+  background: linear-gradient(rgb(50, 193, 186, .5), transparent);
 }
 #min-card-box-right{
   min-height: 300px;
@@ -460,7 +460,7 @@ nav .mbr-section-btn {
   background-color: rgb(173, 216, 230, .5);
 }
 #top-middle{
-  background-color: rgb(144, 238, 144, .5);
+  background-color: rgb(50, 193, 186, .5);
 }
 #top-right{
   background-color: rgb(228, 170, 239,0.5);
