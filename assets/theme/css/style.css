@@ -465,3 +465,17 @@ nav .mbr-section-btn {
 #top-right{
   background-color: rgb(228, 170, 239,0.5);
 }
+body {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.6; /* Optional: improves readability */
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Raleway', sans-serif; /* Optional: ensures headers use the same font */
+}
+.google-text{
+  font-style: normal;
+  line-height: 1.6;
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
