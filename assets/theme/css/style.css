@@ -484,5 +484,7 @@ h1, h2, h3, h4 {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; /* Prevents the image from repeating */
-  padding-bottom: 6rem
+  padding-bottom: 8rem;
+  border-bottom: 10px solid transparent; /* Define the height of the border */
+  border-image: url('../../images/border.png') 30 stretch; /* Use the image as the border */
 }
