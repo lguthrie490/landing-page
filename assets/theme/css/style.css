@@ -479,3 +479,10 @@ h1, h2, h3, h4 {
   margin-bottom: 0;
   padding: 2rem 2rem 0 2rem;
 }
+#header4-8 {
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  padding-bottom: 6rem
+}
