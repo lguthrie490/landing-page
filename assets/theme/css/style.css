@@ -489,20 +489,23 @@ h1, h2, h3, h4 {
   border-image: url('../../images/border.png') 30 stretch; /* Use the image as the border */
 }
 #middle-section-text-background {
-  background-image: url('../../images/text-background-middle.png');
-  /* background-color: rgb(194, 212, 232); */
+  /* background-image: url('../../images/text-background-middle.png'); */
+  background-color: rgb(234, 236, 243);
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat; /* Prevents the image from repeating */
   padding-bottom: 8rem;
-
-
+  margin-top: 1em;
 }
 #features8-5 {
+  margin-top: 3em;
   border-bottom: 10px solid transparent; /* Define the height of the border */
   border-image: url('../../images/border.png') 30 stretch; /* Use the image as the border */
 }
 
 .col-12, .col-md-8 {
   padding-left: 0 !important;
+}
+#founders-section{
+  padding-top: 3em;
 }
